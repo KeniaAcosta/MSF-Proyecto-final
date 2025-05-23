@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Proyecto final: Obstrucción urinaria por hipertrofia
+  prostática benigna (HPB)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: L22210407@tectijuana.edu.mx
+    given-names: Kenia
+    family-names: Berrelleza
+    affiliation: ' Tecnologico Nacional de Mexico'
+  - given-names: Natalie
+    family-names: Perez
+    affiliation: ' Tecnologico Nacional de Mexico'
+    email: L22210425@tectijuana.edu.mx
+repository-code: 'https://github.com/KeniaAcosta/MSF-Proyecto-final'
+keywords:
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+  - Circuito RLC
+license: BSD-2-Clause
+date-released: '2025-05-23'
