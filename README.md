@@ -13,7 +13,8 @@ Diseñar un gemelo digital de un sistema fisiologico que permita identificar las
 un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un
 protocolo de tratamiento mediante un sistema de control.
 ## Actividades
-1.Seleccionar el sistema fisiológico a analizar, descripción del sistema mediante una analogía con un circuito RLC; indicar la enfermedad y los valores correspondientes para el caso y para el control; verificar la respuesta en lazo abierto en Multisim.
+
+1. Seleccionar el sistema fisiológico a analizar, descripción del sistema mediante una analogía con un circuito RLC; indicar la enfermedad y los valores correspondientes para el caso y para el control; verificar la respuesta en lazo abierto en Multisim.
 
 2. Calcular de forma análitica la función de transferencia, el error en estado estacionario y el modelo de ecuaciones integro-diferenciales; determinar la estabilidad en lazo abierto del caso y del control utilizando los valores numéricos para cada sistema; verificar que la respuesta en lazo abierto obtenida en Spyder (Python) y Simulink coincida con la respuesta de Multisim.
 
