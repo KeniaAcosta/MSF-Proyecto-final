@@ -24,6 +24,7 @@ protocolo de tratamiento mediante un sistema de control.
 5. Construir el repositorio de GitHub con todos los resultados del proyecto.
  
 6. Elaborar un ensayo gráfico que permita visualizar el trabajo realizado desde la descripción del sistema, análisis matemático, simulaciones numéricas, diagrama fisiológico y repositorio de GitHub.
+## Docente
 Dr. Paul A. Valle
 
 Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléctrica y Electrónica [DIEE], Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. 
