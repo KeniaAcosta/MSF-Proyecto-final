@@ -2,8 +2,8 @@
 # MSF-Proyecto-final
 Proyecto final: Sistema urinario, obstrucción urinaria por hipertrofia prostática benigna (HPB)
 # Modelado de Sistemas Fisiológicos. Proyecto final: Sistema urinario [Acosta22210407]
-## Autor
 
+## Autor
 Acosta Berrelleza Kenia Celeste
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo@tectijuana.edu.mx
