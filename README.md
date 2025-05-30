@@ -1,10 +1,11 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=KeniaAcosta/MSF-Proyecto-final)
 # MSF-Proyecto-final
 Proyecto final: Sistema urinario, obstrucción urinaria por hipertrofia prostática benigna (HPB)
-# Modelado de Sistemas Fisiológicos. Proyecto final: Sistema urinario [Acosta22210407]
+# Modelado de Sistemas Fisiológicos. Proyecto final: Sistema urinario [Acosta22210407, Perez22210425]
 
 ## Autor
 Acosta Berrelleza Kenia Celeste
+Perez Castillo Natalie jaqueline
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210407@tectijuana.edu.mx
 
