@@ -8,7 +8,7 @@ Acosta Berrelleza Kenia Celeste
 
 Perez Castillo Natalie jaqueline
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210407@tectijuana.edu.mx
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L22210407@tectijuana.edu.mx, L22210425@tectijuana.edu.mx
 
 ## Objetivos general
 Diseñar un gemelo digital de un sistema fisiologico que permita identificar las diferencias entre
